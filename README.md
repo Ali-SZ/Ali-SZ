@@ -1,5 +1,4 @@
 # About Me:
-Just a simple developer
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/ali-sz">
